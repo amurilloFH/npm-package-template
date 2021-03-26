@@ -1,0 +1,7 @@
+{
+    "entryPoints": ["./src/my-npm-package.ts"],
+    "out": "docs",
+    "exclude": ["**/**(index|.test).ts"],
+    "name": "My NPM Package",
+    "includeVersion": true
+}
